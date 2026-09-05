@@ -1,0 +1,21 @@
+Job Role,Skills,Avg Salary,Experience Level
+Data Scientist,"Python, SQL, Machine Learning, Statistics, Pandas, NumPy, Data Visualization, Scikit-learn",110000,Mid
+ML Engineer,"Python, Machine Learning, TensorFlow, PyTorch, Model Deployment, MLOps, Docker, Model Optimization",120000,Senior
+Data Analyst,"Python, SQL, Excel, Data Analysis, Pandas, Statistics, Power BI, Data Visualization",75000,Entry
+Data Engineer,"Python, SQL, ETL, Apache Spark, Data Pipelines, Apache Airflow, Data Warehousing, Hadoop",105000,Mid
+Backend Developer,"Python, SQL, REST APIs, Django, PostgreSQL, Authentication, Server Development, Redis",95000,Mid
+Full-Stack Developer,"JavaScript, HTML, CSS, React, Node.js, REST APIs, MongoDB, Frontend Development",90000,Mid
+DevOps Engineer,"Linux, AWS, Docker, Kubernetes, CI/CD, Jenkins, Git, Terraform",115000,Senior
+Cloud Engineer,"AWS, Azure, Docker, Kubernetes, Cloud Architecture, Terraform, Infrastructure, Cloud Security",110000,Senior
+Security Analyst,"Linux, Network Security, SIEM, Log Analysis, Threat Detection, Incident Response, Security Monitoring, Splunk",85000,Mid
+Penetration Tester,"Linux, Network Security, Nmap, Metasploit, Burp Suite, Penetration Testing, Vulnerability Assessment, Kali Linux",90000,Mid
+Android Developer,"Kotlin, Java, Android SDK, Android Studio, Jetpack Compose, Firebase, Mobile UI, Gradle",85000,Mid
+iOS Developer,"Swift, Xcode, iOS SDK, SwiftUI, UIKit, Core Data, TestFlight, App Store Connect",90000,Mid
+Embedded Engineer,"C, C++, Microcontrollers, Embedded Systems, UART, SPI, I2C, RTOS",95000,Senior
+IoT Developer,"Python, C++, IoT, MQTT, Raspberry Pi, Arduino, Sensors, Edge Computing",90000,Mid
+Network Engineer,"TCP/IP, Routing, Switching, Cisco, VLAN, DHCP, DNS, Network Administration",85000,Entry
+Network Security Engineer,"TCP/IP, Firewalls, VPN, IDS/IPS, Cisco, Network Security, Wireshark, Network Monitoring",100000,Mid
+Game Developer,"C#, Unity, Game Development, 3D Modeling, Game Physics, Animation, Level Design",80000,Entry
+Gameplay Programmer,"C++, Unreal Engine, Gameplay Programming, Game Physics, AI Programming, Game Mechanics, Blueprint",85000,Mid
+QA Engineer,"Software Testing, Test Cases, Manual Testing, Bug Tracking, Regression Testing, Jira, Quality Assurance, Test Planning",75000,Entry
+Automation Tester,"Python, Selenium, PyTest, Test Automation, API Testing, CI/CD, Playwright",85000,Mid
